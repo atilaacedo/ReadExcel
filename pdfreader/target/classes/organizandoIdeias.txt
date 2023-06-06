@@ -1,8 +1,0 @@
-
-
- - Pegar todas as salas (se houver) com cod_local determinado (14)
- - Pegar cada pessoa e verificar se a sala está adicionada, se não estiver adiciona e pega o codigo da sala gerada, se estiver apenas pega o codigo
- - Pega o nome da pessoa e adiciona na coluna nome;
- - Pega o Login pegando o primeiro e o ultimo nome da pessoa e adiciona a Coluna Login,
- - Pega a senha fixa e adiciona a coluna Senha
- - Adiciona Sts_Ativo e cod_empresa automaticamente em cada um;
